@@ -1,0 +1,8 @@
+{
+  "name": "queen",
+  "logo": "https://r.resimlink.com/hgWTUDP.png",
+  "rpc_url": "http://167.235.58.156:9944",
+  "explorer_url": "http://167.235.58.156:4000",
+  "metrics_endpoint": "http://167.235.58.156:9615/metrics",
+  "id": "05d3c9e4-8ee4-4c5c-9b23-1c4d1d50a5a6"
+}
